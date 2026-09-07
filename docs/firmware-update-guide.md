@@ -146,7 +146,7 @@ All previous firmware releases remain available on the releases page. To roll ba
 
 If an update problem persists after §6:
 
-- **support@dyber-pqc.com** — include your serial number, current firmware version, host OS, the exact command used, and its full output.
+- **support@dyber.org** — include your serial number, current firmware version, host OS, the exact command used, and its full output.
 
 ---
 

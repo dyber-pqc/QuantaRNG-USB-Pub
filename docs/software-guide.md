@@ -198,7 +198,7 @@ cat /proc/sys/kernel/random/entropy_avail
 | Downloads & releases | github.com/dyber-pqc/QuantaRNG-USB/releases |
 | Python package | pypi.org/project/quantarng |
 | Source code & examples | github.com/dyber-pqc/QuantaRNG-USB |
-| Support | support@dyber-pqc.com |
+| Support | support@dyber.org |
 
 ---
 

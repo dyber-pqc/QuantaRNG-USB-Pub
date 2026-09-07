@@ -133,7 +133,7 @@ Include the following for fastest resolution:
 
 | Channel | Address |
 |---|---|
-| General support | support@dyber-pqc.com |
+| General support | support@dyber.org |
 | Security issues | security@dyber-pqc.com |
 | Releases & firmware | github.com/dyber-pqc/QuantaRNG-USB/releases |
 
