@@ -134,10 +134,10 @@ Include the following for fastest resolution:
 | Channel | Address |
 |---|---|
 | General support | support@dyber.org |
-| Security issues | security@dyber-pqc.com |
+| Security issues | security@dyber.org |
 | Releases & firmware | github.com/dyber-pqc/QuantaRNG-USB/releases |
 
-*Report suspected security vulnerabilities privately to security@dyber-pqc.com — please do not open public issues for security matters.*
+*Report suspected security vulnerabilities privately to security@dyber.org — please do not open public issues for security matters.*
 
 ---
 

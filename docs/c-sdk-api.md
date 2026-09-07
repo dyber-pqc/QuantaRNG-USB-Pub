@@ -443,7 +443,7 @@ Built by default (`-DBUILD_EXAMPLES=ON`) as `qrng-basic`, `qrng-stream`, `qrng-i
 | Need | Contact |
 |---|---|
 | Integration questions, bug reports | support@dyber.org |
-| Security reports | security@dyber-pqc.com |
+| Security reports | security@dyber.org |
 | Source, releases, issues | github.com/dyber-pqc/QuantaRNG-USB-Pub |
 
 When reporting an SDK issue, include: `qrng_version()`, device firmware version, OS and architecture (`uname -a`), and the failing call with its `qrng_strerror()` output.

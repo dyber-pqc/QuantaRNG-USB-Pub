@@ -123,7 +123,7 @@ gpg --verify quantarng-fw-<version>.bin.sig quantarng-fw-<version>.bin
 
 - Start with the [Troubleshooting Guide](docs/troubleshooting-guide.md)
 - **support@dyber.org** — include your device serial number and firmware version
-- **security@dyber-pqc.com** — for security reports (see [SECURITY.md](SECURITY.md); please don't open public issues for vulnerabilities)
+- **security@dyber.org** — for security reports (see [SECURITY.md](SECURITY.md); please don't open public issues for vulnerabilities)
 
 ---
 

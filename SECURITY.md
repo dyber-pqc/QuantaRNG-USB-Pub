@@ -13,7 +13,7 @@ We take security seriously, especially since QuantaRNG is intended for cryptogra
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, email **security@dyber-pqc.com** with:
+Instead, email **security@dyber.org** with:
 
 1. A description of the vulnerability
 2. Steps to reproduce (or proof-of-concept code)
