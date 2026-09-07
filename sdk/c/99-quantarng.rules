@@ -1,0 +1,19 @@
+# udev rules for QuantaRNG USB devices
+#
+# Install:
+#   sudo cp 99-quantarng.rules /etc/udev/rules.d/
+#   sudo udevadm control --reload-rules
+#   sudo udevadm trigger
+#
+# After plug-in, the device appears at /dev/quantarng* with mode 0660
+# and is owned by group 'plugdev'. Add yourself with:
+#   sudo usermod -aG plugdev $USER
+
+# QuantaRNG USB (CDC mode)
+SUBSYSTEM=="tty", ATTRS{idVendor}=="0483", ATTRS{idProduct}=="5740", \
+    SYMLINK+="quantarng%n", GROUP="plugdev", MODE="0660", \
+    ENV{ID_MM_DEVICE_IGNORE}="1"
+
+# QuantaRNG USB (DFU mode for firmware updates)
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0483", ATTRS{idProduct}=="df11", \
+    GROUP="plugdev", MODE="0660"
